@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "U4oSRVGyd6fYT3IbEArd/xjK2WXElZsxk3Sc/mOcT+Y=",
+  "Source": "InMemoryDB",
+  "BasePath": "_content/InMemoryDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
